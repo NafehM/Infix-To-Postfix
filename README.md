@@ -1,6 +1,6 @@
 # Infix to Postfix
 
-> **University assignment:** Data Structures & Algorithms, Assignment 1 (Semester 1, second year, 2021–2022), University of Salford.
+> Data Structures & Algorithms, Assignment for University.
 
 A Java project that builds a **stack data structure** from scratch and uses it to convert mathematical expressions from **infix** notation to **postfix** notation. A **JavaFX** window provides the user interface.
 
