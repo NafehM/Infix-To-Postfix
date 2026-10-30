@@ -1,0 +1,7 @@
+# Eclipse workspace data
+.metadata/
+
+# Build output
+target/
+bin/
+*.class
