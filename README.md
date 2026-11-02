@@ -1,6 +1,6 @@
 # Infix to Postfix
 
-> Data Structures & Algorithms, Assignment for University.
+> Data Structures & Algorithms: This is a University Project.
 
 A Java project that builds a **stack data structure** from scratch and uses it to convert mathematical expressions from **infix** notation to **postfix** notation. A **JavaFX** window provides the user interface.
 
